@@ -1,0 +1,28 @@
+name: convexset
+favicon: null
+layout_spectrum: 0.7598566
+typography_spectrum: 0.8781362
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#d8f790'
+    - '#000000'
+    - '#575757'
+    - '#868686'
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
+purpose: []
