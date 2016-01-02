@@ -6,21 +6,21 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-28T15:19:36.305Z'
-dateModified: '2015-12-28T15:19:20.091Z'
+datePublished: '2016-01-02T05:40:11.695Z'
+dateModified: '2016-01-02T05:40:06.124Z'
 title: Meet the Teddy Paw
 author: []
+sourcePath: _posts/2015-12-28-meet-the-teddy-paw.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-28-meet-the-teddy-paw.md
-published: true
 url: meet-the-teddy-paw/index.html
 _type: Article
 
 ---
 # Meet the Teddy Paw
-null
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4bc6faae-4a38-473d-bb29-dac3df12901a.jpg)
