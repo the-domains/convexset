@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-02T05:40:11.695Z'
-dateModified: '2016-01-02T05:40:06.124Z'
+datePublished: '2016-01-02T05:40:32.293Z'
+dateModified: '2016-01-02T05:40:26.191Z'
 title: Meet the Teddy Paw
 author: []
 sourcePath: _posts/2015-12-28-meet-the-teddy-paw.md
