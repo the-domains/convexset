@@ -1,6 +1,6 @@
 name: convexset
 favicon: null
-layout_spectrum: 0.2596
+layout_spectrum: 0.7598566
 typography_spectrum: 0.8781362
 title: 'convexset '
 cta:
@@ -22,8 +22,8 @@ color:
     - '#000000'
     - '#575757'
     - '#868686'
-  brandStrength: 0.5
-  lightness: 1
+  brandStrength: 0
+  lightness: 0
   saturation: 0
   rhythmicContrast: 1
 purpose: []
